@@ -21,8 +21,8 @@
 title: メルマガ「ハッカーへの道」バックナンバー
 email: webmaster@champierre.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/hacker" # the subpath of your site, e.g. /blog
-url: "https://champierre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://champierre.github.io/hacker" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jishiha
 github_username:  champierre
 
